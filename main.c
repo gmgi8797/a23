@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main() {
-	printf("Hello World\n");
+	int a;
+	for(a=0;a<3;a++) 	printf("Hello World\n");
 
-	pritnf("Hi");
 }
