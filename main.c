@@ -6,4 +6,5 @@ void main() {
 	printf("INNTINT\n");
 	printf("INAA\n");
 	printf("NIA\n");
+	printf("%d %d %d\n", i, j, i * j);
 }
